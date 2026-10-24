@@ -1,9 +1,7 @@
 
-<!-- Replace only the remaining YOUR_... placeholders -->
-
 <h1 align="center">Hi, I'm Akhil Sahu</h1>
 
-<h3 align="center">Full-Stack Development</h3>
+<h3 align="center">Full-Stack Developer | Backend Development | Problem Solving</h3>
 
 <p align="center">
   Building web applications, solving coding problems, and continuously improving my software development skills.
@@ -11,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/mrakhilsahu">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" alt="GitHub Profile" />
   </a>
 </p>
 
@@ -33,31 +31,31 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,python&theme=dark" alt="JavaScript and Java" />
+  <img src="https://skillicons.dev/icons?i=js,java,python&theme=dark" alt="JavaScript, Java and Python" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,vite&theme=dark" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,vite&theme=dark" alt="HTML, CSS, React, Redux, Tailwind CSS and Vite" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="MongoDB, MySQL and PostgreSQL" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Git, GitHub, Postman and VS Code" />
 </p>
 
 ---
@@ -66,18 +64,18 @@
 
 ### Co-Ride
 
-A ride-sharing project focused on connecting users through a web application.
+A ride-sharing web application designed to help users coordinate rides.
 
-- **Purpose:** Provide a convenient platform for ride coordination.
-- **Development:** Full-stack application development.
+- **Focus:** Ride-sharing application workflows
+- **Development:** Full-stack application development
 - **Repository:** [View Co-Ride](https://github.com/mrakhilsahu/co-ride)
 
 ### CampusConnect
 
 A campus-focused web application designed to support campus-related services and activities.
 
-- **Purpose:** Bring campus users and relevant services together.
-- **Development:** Frontend, backend, and application integration.
+- **Focus:** Campus services and application workflows
+- **Development:** Frontend, backend, and application integration
 - **Repository:** [View CampusConnect](https://github.com/mrakhilsahu/campusconnect)
 
 ---
